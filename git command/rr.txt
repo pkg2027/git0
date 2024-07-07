@@ -1,0 +1,14 @@
+How to get exit from cat command.
+                                 [control + d]
+How to get exit from diff command.
+                                  [q + enter]
+Command for Revert a file after commit.
+                                       [git revert "commit code from log("git log")"]
+Command for restoring a file after removal/deleting from repo.
+                                                              [git restore --staged"file name.type"]
+							      [git restore "file name.type"]
+
+
+====================================================================================================
+
+

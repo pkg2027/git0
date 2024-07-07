@@ -1,0 +1,10 @@
+Command for changing directry in git.
+                                     [cd /] Press Enter =Home directry.
+				     [cd /(folder name)/(folder name)/...] Press Enter =known path to specific dir in init repo.
+				     [cd ..] Press Enter =one step back in dir.
+				     [cd ../..] Press Enter =two step back in dir.
+
+
+================================================================================================================================
+
+

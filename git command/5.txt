@@ -1,0 +1,10 @@
+Command for removing the file from dir or folder in the git.
+                                                            [git rm (file name)] Press Enter.
+							    [git rm *] Press Enter. =All the files will be deleted in the folder or dir.
+							    [git rm dir (folder name)] Press Enter =to delet the folder or dir.
+
+
+========================================================================================================================================
+
+
+

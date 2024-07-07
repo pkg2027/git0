@@ -1,0 +1,19 @@
+Command for editing the text in git hub.
+                                        [nano (file name.type)] . press Enter.
+After editng press "Y" to "Save" then press [Enter] to "Exit".
+
+Another command for editing the text in git.
+                                           [vi (file name.type)] Press Enter.
+Editing wiz will be open.
+Now press "i" to enter in Editing mood
+Press [Esc]Type[:wq]=to "Save and Exit".
+Then Press [Enter].
+Or
+Press[Esc]Type[:qa!]=to "Exit Without Saving"
+Then Press [Enter].
+
+=============================================================================
+
+
+
+

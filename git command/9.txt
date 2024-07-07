@@ -1,0 +1,8 @@
+For cloning the files of one repo that is on web to your server/device.
+                                                                       [git clone (url link) (folder name)] press enter.
+
+
+=======================================================================================================================
+
+
+

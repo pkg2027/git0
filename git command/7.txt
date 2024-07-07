@@ -1,0 +1,16 @@
+Important command in git.
+
+For initialising repositry.
+                           [git init] press enter
+For adding files in repo.(Files to be tracked).
+                                               [git add -A] press enter
+For commit the files to hte server ("working tree clean").{Snapshot}
+                                                                    [git commit] press enter
+				                                    [git commit -m "massage"] press enter
+For geting the status of repo(tracked/untracked files).{staging Area}
+                                                                     [git status] press enter.
+For geting log of repo files.
+                             [git log] press enter.
+
+
+==========================================================================================================

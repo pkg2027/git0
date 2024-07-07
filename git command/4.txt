@@ -1,0 +1,8 @@
+Command for reading the file in git.
+                                    [cat (file name.type)] Press Enter.
+
+
+=======================================================================
+
+
+

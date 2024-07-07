@@ -1,0 +1,9 @@
+For moving to one branch to another branch.
+                                           [git branch] press enter = to know the no. of other branches
+                                           [git checkout (branch name)] press enter.
+For merging the two different branches.
+                                       [git merge (branch name)] press enter.
+
+=======================================================================================================
+
+

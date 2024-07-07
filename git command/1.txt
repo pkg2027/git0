@@ -1,0 +1,11 @@
+Command for making empty file in git.
+                                     [git touch (file name.type)] press Enter.
+Command for moving fils to another dir or folder.
+                                                 [git cp (file name.typer) (folder name of file of file origin)/]
+						 Press Enter.
+
+
+=================================================================================================================
+
+
+

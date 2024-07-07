@@ -1,0 +1,8 @@
+Command for moving the file to new dir or folder in git.
+                                                        [git mv (file name.type) (folder name of the origin of file)] Press Enter.
+
+
+=================================================================================================================================
+
+
+
