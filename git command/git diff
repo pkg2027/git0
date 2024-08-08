@@ -1,0 +1,4 @@
+Getting difference between two simillar files i.e f1.txt and f2.txt
+Command:
+        git diff f1.txt f2.txt [ENTER]
+YOU WILL GET A LINE BY LINW DIFFERENCE IF ANY
